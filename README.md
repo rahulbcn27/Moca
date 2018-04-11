@@ -20,3 +20,5 @@ Install dependencies >
 To start the server 
 
 2. $npm run dev
+
+The client starts at http://localhost:8080
