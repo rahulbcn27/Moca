@@ -17,7 +17,7 @@ Install dependencies >
 
 1. $npm install
 
-To start the server 
+To start the client
 
 2. $npm run dev
 
