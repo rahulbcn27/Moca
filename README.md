@@ -10,7 +10,7 @@ This Project aims to Show top 100 starred repositories of Github.
 2.FrontEnd : Vue.js , HTML,CSS
 
 
-# Server > 
+# Server :  
 
 To Install the dependencies > 
 1. $ npm install
@@ -21,7 +21,7 @@ To start the server
 
 The server starts at http://localhost:8081
 
-# Client > 
+# Client : 
 
 Install dependencies > 
 
