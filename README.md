@@ -4,6 +4,7 @@ This Project aims to Show top 100 starred repositories of Github.
 Technologies Used :
 
 1.Server: Node.js,Express.js,GraphQL
+
 2.FrontEnd : Vue.js , HTML,CSS
 
 
