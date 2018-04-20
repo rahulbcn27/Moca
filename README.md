@@ -1,14 +1,16 @@
-# moca
+# Moca
 
 This Project aims to Show top 100 starred repositories of Github.
-Technologies Used :
+
+
+# Technologies Used :
 
 1.Server: Node.js,Express.js,GraphQL
 
 2.FrontEnd : Vue.js , HTML,CSS
 
 
-Server > 
+# Server > 
 
 To Install the dependencies > 
 1. $ npm install
@@ -19,7 +21,7 @@ To start the server
 
 The server starts at http://localhost:8081
 
-Client > 
+# Client > 
 
 Install dependencies > 
 
